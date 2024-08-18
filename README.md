@@ -7,12 +7,12 @@ This project utilizes deep learning to detect crop diseases from images. The app
 The primary goal is to provide a user-friendly interface for farmers to identify diseases in their crops. The deep learning model, trained on various crop images, predicts the disease based on visual features. This tool aims to support farmers by providing timely and accurate disease identification.
 
 ## Setup
-- Clone the repository: 'https://github.com/your-username/crop_disease_project.git'
-- Navigate to the project directory: 'cd crop_disease_project'
-- Set Up a Virtual Environment (Recommended): 'python -m venv venv source venv/bin/activate' # On Windows use `venv\Scripts\activate`
-- Install Dependencies: 'pip install -r requirements.txt'
-- Train the Model (If Needed): If you need to train or update the model, ensure your dataset is correctly organized in the data/ directory and run: 'python train_model.py'
-- Run the Streamlit App: 'streamlit run app.py'
+- Clone the repository: 'https://github.com/armandeshmukh/crop_disease_project.git'
+- Navigate to the project directory: `cd crop_disease_projrct`
+- Set Up a Virtual Environment (Recommended): `python -m venv venv source venv/bin/activate` # On Windows use `venv\Scripts\activate`
+- Install Dependencies: `pip install -r requirements.txt`
+- Train the Model (If Needed): If you need to train or update the model, ensure your dataset is correctly organized in the data/ directory and run:  `python train_model.py`
+- Run the Streamlit App: `streamlit run app.py`
 
 ## Usage 
 - Upload an Image: Use the Streamlit interface to upload an image of your crop.
