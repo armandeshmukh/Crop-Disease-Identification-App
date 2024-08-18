@@ -7,7 +7,7 @@ This project utilizes deep learning to detect crop diseases from images. The app
 The primary goal is to provide a user-friendly interface for farmers to identify diseases in their crops. The deep learning model, trained on various crop images, predicts the disease based on visual features. This tool aims to support farmers by providing timely and accurate disease identification.
 
 ## Setup
-- Clone the repository: 'https://github.com/armandeshmukh/crop_disease_project.git'
+- Clone the repository: 'https://github.com/armandeshmukh/crop_disease_identification_app.git'
 - Navigate to the project directory: `cd crop_disease_projrct`
 - Set Up a Virtual Environment (Recommended): `python -m venv venv source venv/bin/activate` # On Windows use `venv\Scripts\activate`
 - Install Dependencies: `pip install -r requirements.txt`
