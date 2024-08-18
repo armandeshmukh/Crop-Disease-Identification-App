@@ -9,7 +9,7 @@ The primary goal is to provide a user-friendly interface for farmers to identify
 ## Setup
 - Clone the repository: 'https://github.com/your-username/crop_disease_project.git'
 - Navigate to the project directory: 'cd crop_disease_project'
-- Set Up a Virtual Environment (Recommended): 'python -m venv venv source venv/bin/activate'   # On Windows use `venv\Scripts\activate`
+- Set Up a Virtual Environment (Recommended): 'python -m venv venv source venv/bin/activate' # On Windows use `venv\Scripts\activate`
 - Install Dependencies: 'pip install -r requirements.txt'
 - Train the Model (If Needed): If you need to train or update the model, ensure your dataset is correctly organized in the data/ directory and run: 'python train_model.py'
 - Run the Streamlit App: 'streamlit run app.py'
